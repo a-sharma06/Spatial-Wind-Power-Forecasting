@@ -1,4 +1,4 @@
-# spatial-wind-power-forecasting
+# Spatial-Wind-Power-Forecasting
 Spatial and temporal wind power prediction
 
 Files:
