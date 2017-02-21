@@ -15,6 +15,7 @@ Files:
 
 
 Steps:
+
 1. Creating 64 geographic zones on US maps, each of about 100km x 180km. 
 
 2. Using latitude and longitude to divide wind turbine locations into the 64 zones.
