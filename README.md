@@ -40,3 +40,7 @@ Steps:
 8. Mean Absolute Percentage Error (MAPE) is calculated for each site.
 
 9. The MAPE is grouped by zones to determine the overall reduction in forecasting error in wind power.
+
+## License
+
+All Rights Reserved — see [LICENSE](LICENSE).
